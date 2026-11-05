@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Swan Ballet",
+    "name": "Swan Ballet",
+    "nameRu": "Лебединый Балет",
+    "nameUz": "Oqqush Baleti",
+    "descriptionRu": "Серебряный жемчуг и шелковый пудровый розовый",
+    "descriptionUz": "Oq marvarid va nafis pushti rokoko jilvasi",
+    "themeColor": "#F7D6D0",
+    "accent": "#D47A75",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=80",
+    "sort": 1
+  },
+  {
+    "id": "Moonlight Mermaid",
+    "name": "Moonlight Mermaid",
+    "nameRu": "Лунная Русалка",
+    "nameUz": "Oy Nuri Suv Parisi",
+    "descriptionRu": "Кристальный блеск океана и перламутр",
+    "descriptionUz": "Okean marvaridi va billur toshlar sehri",
+    "themeColor": "#DCE9F2",
+    "accent": "#6B99B5",
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=80",
+    "sort": 2
+  },
+  {
+    "id": "Strawberry Rococo",
+    "name": "Strawberry Rococo",
+    "nameRu": "Клубничное Рококо",
+    "nameUz": "Qulupnayli Rokoko",
+    "descriptionRu": "Парижские десерты, крем и винтажная карамель",
+    "descriptionUz": "Fransuz qandolatxonasi va nozik shirinliklar",
+    "themeColor": "#FCEEE9",
+    "accent": "#E27B75",
+    "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=600&q=80",
+    "sort": 3
+  },
+  {
+    "id": "Chocolate Wonder-Shop",
+    "name": "Chocolate Wonder-Shop",
+    "nameRu": "Шоколадная Лавка",
+    "nameUz": "Shokolad Mo'jizasi",
+    "descriptionRu": "Теплый бежевый нюд, какао и бархат",
+    "descriptionUz": "Iliq karamel, kakao va baxmal bej tuslar",
+    "themeColor": "#EADCCF",
+    "accent": "#9E684D",
+    "image": "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=600&q=80",
+    "sort": 4
+  },
+  {
+    "id": "Little Angel",
+    "name": "Little Angel",
+    "nameRu": "Маленький Ангел",
+    "nameUz": "Kichik Farishta",
+    "descriptionRu": "Барочные золотые крылья и фарфоровое сияние",
+    "descriptionUz": "Antikvar oltin ustunlar va farishta qanotlari",
+    "themeColor": "#F5ECE1",
+    "accent": "#C59B6D",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80",
+    "sort": 5
+  }
+]

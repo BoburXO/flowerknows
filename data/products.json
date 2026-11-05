@@ -1,0 +1,456 @@
+[
+  {
+    "id": "fk-p1",
+    "name": "Swan Ballet Embossed Blush",
+    "category": "blush",
+    "collection": "Swan Ballet",
+    "price": 280000,
+    "oldPrice": 340000,
+    "rating": 4.9,
+    "reviewsCount": 68,
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "stockCount": 24,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shades": [
+      {
+        "id": "s01",
+        "name": "01 Snow Swan",
+        "nameRu": "Нежный розовый жемчуг",
+        "nameUz": "Nozik pushti marvarid",
+        "hex": "#F9D5D3"
+      },
+      {
+        "id": "s02",
+        "name": "02 Romantic Ballet",
+        "nameRu": "Бежево-персиковый бархат",
+        "nameUz": "Bej shaftoli barxit",
+        "hex": "#F2B8A6"
+      },
+      {
+        "id": "s03",
+        "name": "03 Silky Ribbon",
+        "nameRu": "Кремовая дыня",
+        "nameUz": "Krem qovun",
+        "hex": "#F7CEB9"
+      }
+    ],
+    "description": "Viktorian davrining nafis oqqushlar baletidan ilhomlangan yanoq bo'yog'i. Yuzga tabiiy, jilvali va nozik bej-pushti rang baxsh etadi. Shoyidek yumshoq tekstura yuzda bir tekis tarqaladi.",
+    "features": [
+      "Qo'lda ishlangan 3D oqqush va lentalar relyefi",
+      "Mikron zarrachali ipak kukun texnologiyasi",
+      "Kun bo'yi turg'unlik (12 soatgacha)",
+      "Nafis vanil va atirgul ifori"
+    ],
+    "nameRu": "Румяна с тиснением Swan Ballet",
+    "nameUz": "Swan Ballet naqshli romyana",
+    "descriptionUz": "Viktorian davrining nafis oqqushlar baletidan ilhomlangan yanoq bo'yog'i. Yuzga tabiiy, jilvali va nozik bej-pushti rang baxsh etadi. Shoyidek yumshoq tekstura yuzda bir tekis tarqaladi.",
+    "descriptionRu": "Румяна, вдохновлённые изысканным лебединым балетом Викторианской эпохи. Дарят лицу естественный сияющий нежный бежево-розовый оттенок. Шелковистая текстура равномерно ложится на кожу.",
+    "featuresUz": [
+      "Qo'lda ishlangan 3D oqqush va lentalar relyefi",
+      "Mikron zarrachali ipak kukun texnologiyasi",
+      "Kun bo'yi turg'unlik (12 soatgacha)",
+      "Nafis vanil va atirgul ifori"
+    ],
+    "featuresRu": [
+      "Ручной 3D-рельеф лебедя и лент",
+      "Технология шелковой пудры с микрочастицами",
+      "Стойкость на весь день (до 12 часов)",
+      "Нежный аромат ванили и розы"
+    ],
+    "createdAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "fk-p2",
+    "name": "Moonlight Mermaid Glossy Lip Glaze",
+    "category": "lips",
+    "collection": "Moonlight Mermaid",
+    "price": 240000,
+    "oldPrice": 290000,
+    "rating": 5,
+    "reviewsCount": 92,
+    "badge": "HIT",
+    "inStock": true,
+    "stockCount": 38,
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shades": [
+      {
+        "id": "m01",
+        "name": "01 Nude Coral",
+        "nameRu": "Пастельный бежевый коралл",
+        "nameUz": "Pastel bej korall",
+        "hex": "#E08374"
+      },
+      {
+        "id": "m02",
+        "name": "02 Sunset Pearl",
+        "nameRu": "Персиковый жемчуг",
+        "nameUz": "Marvarid shaftoli",
+        "hex": "#D96B68"
+      },
+      {
+        "id": "m03",
+        "name": "03 Almond Jelly",
+        "nameRu": "Миндальный крем",
+        "nameUz": "Qaymoqli bodom",
+        "hex": "#C66D60"
+      }
+    ],
+    "description": "Ko'zgudek porlovchi, yopishmaydigan lab bo'yog'i. Marvarid jilvasi va tabiiy lab rangini ochuvchi suvli formula. Lablaringizni to'liq va jozibador ko'rsatadi.",
+    "features": [
+      "Kristall shisha idish dizayni",
+      "E vitamini va jojoba yog'i bilan boyitilgan",
+      "Oson suriladi, lablarni quritmaydi",
+      "Oyna effektli uzoq muddatli jilo"
+    ],
+    "nameRu": "Глянцевая глазурь для губ Moonlight Mermaid",
+    "nameUz": "Moonlight Mermaid yaltiroq lab glazuri",
+    "descriptionUz": "Ko'zgudek porlovchi, yopishmaydigan lab bo'yog'i. Marvarid jilvasi va tabiiy lab rangini ochuvchi suvli formula. Lablaringizni to'liq va jozibador ko'rsatadi.",
+    "descriptionRu": "Зеркально-блестящий нелипкий блеск для губ. Водная формула с жемчужным сиянием подчёркивает естественный цвет губ. Делает губы пухлыми и притягательными.",
+    "featuresUz": [
+      "Kristall shisha idish dizayni",
+      "E vitamini va jojoba yog'i bilan boyitilgan",
+      "Oson suriladi, lablarni quritmaydi",
+      "Oyna effektli uzoq muddatli jilo"
+    ],
+    "featuresRu": [
+      "Дизайн флакона из хрустального стекла",
+      "Обогащён витамином E и маслом жожоба",
+      "Легко наносится, не сушит губы",
+      "Долгое зеркальное сияние"
+    ],
+    "createdAt": "2026-09-05T10:00:00.000Z"
+  },
+  {
+    "id": "fk-p3",
+    "name": "Strawberry Rococo 5-Color Eyeshadow Palette",
+    "category": "eyes",
+    "collection": "Strawberry Rococo",
+    "price": 360000,
+    "oldPrice": 420000,
+    "rating": 4.9,
+    "reviewsCount": 54,
+    "badge": "YANGI",
+    "inStock": true,
+    "stockCount": 16,
+    "images": [
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583241800698-e8ab01830a07?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shades": [
+      {
+        "id": "r01",
+        "name": "01 Sweet Macaron",
+        "nameRu": "Крем и карамель",
+        "nameUz": "Krem & karamel",
+        "hex": "#D19F86"
+      },
+      {
+        "id": "r02",
+        "name": "02 Vintage Berry",
+        "nameRu": "Ретро-клубника и беж",
+        "nameUz": "Retro qulupnay & bej",
+        "hex": "#BE7274"
+      }
+    ],
+    "description": "Rokoko davrining saroy shirinliklari va qulupnayli shokoladidan ilhomlangan 5 xil rangli ko'z teni palitrasi. Matoviy, atlas va yaltiroq yorqin donalar uyg'unligi.",
+    "features": [
+      "Vintage oltin hoshiyali antikvar quti",
+      "To'kilmaydigan mayin pigmentatsiya",
+      "Kundalik va kechki pardoz uchun ideal",
+      "Ichki ko'zgu bilan jihozlangan"
+    ],
+    "nameRu": "Палетка теней Strawberry Rococo, 5 цветов",
+    "nameUz": "Strawberry Rococo 5 rangli ko'z tenlari palitrasi",
+    "descriptionUz": "Rokoko davrining saroy shirinliklari va qulupnayli shokoladidan ilhomlangan 5 xil rangli ko'z teni palitrasi. Matoviy, atlas va yaltiroq yorqin donalar uyg'unligi.",
+    "descriptionRu": "Палетка теней из 5 оттенков, вдохновлённая придворными десертами эпохи рококо и клубничным шоколадом. Гармония матовых, атласных и сверкающих пигментов.",
+    "featuresUz": [
+      "Vintage oltin hoshiyali antikvar quti",
+      "To'kilmaydigan mayin pigmentatsiya",
+      "Kundalik va kechki pardoz uchun ideal",
+      "Ichki ko'zgu bilan jihozlangan"
+    ],
+    "featuresRu": [
+      "Антикварный футляр с винтажной золотой окантовкой",
+      "Мягкая пигментация без осыпания",
+      "Идеальна для дневного и вечернего макияжа",
+      "Оснащена встроенным зеркалом"
+    ],
+    "createdAt": "2026-09-09T10:00:00.000Z"
+  },
+  {
+    "id": "fk-p4",
+    "name": "Little Angel Feather Matte Highlighter & Contour",
+    "category": "face",
+    "collection": "Little Angel",
+    "price": 290000,
+    "oldPrice": 350000,
+    "rating": 4.8,
+    "reviewsCount": 41,
+    "badge": "BESTSELLER",
+    "inStock": true,
+    "stockCount": 19,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shades": [
+      {
+        "id": "a01",
+        "name": "Moonlight Feather",
+        "nameRu": "Белый жемчужный свет",
+        "nameUz": "Oq marvarid nuri",
+        "hex": "#FFF6E8"
+      },
+      {
+        "id": "a02",
+        "name": "Golden Halo",
+        "nameRu": "Золотистый бежевый ореол",
+        "nameUz": "Oltin bej yog'dusi",
+        "hex": "#EED8BE"
+      }
+    ],
+    "description": "Farishtalar qanoti naqshi tushirilgan mo'jizakor xaylayter. Yuzning kerakli qismlariga tabiiy, ichki nur jilosini beradi va yuz tuzilishini mukammal ko'rsatadi.",
+    "features": [
+      "Barokko uslubidagi haykaltaroshlik naqshi",
+      "G'ovaklarni ko'rsatmaydigan yengil qoplama",
+      "Yuz, dekolte va yelka uchun mos keladi"
+    ],
+    "nameRu": "Матовый хайлайтер и контур Little Angel Feather",
+    "nameUz": "Little Angel Feather matoviy xaylayter va kontur",
+    "descriptionUz": "Farishtalar qanoti naqshi tushirilgan mo'jizakor xaylayter. Yuzning kerakli qismlariga tabiiy, ichki nur jilosini beradi va yuz tuzilishini mukammal ko'rsatadi.",
+    "descriptionRu": "Волшебный хайлайтер с рельефом ангельских крыльев. Дарит естественное внутреннее сияние нужным зонам лица и идеально подчёркивает его структуру.",
+    "featuresUz": [
+      "Barokko uslubidagi haykaltaroshlik naqshi",
+      "G'ovaklarni ko'rsatmaydigan yengil qoplama",
+      "Yuz, dekolte va yelka uchun mos keladi"
+    ],
+    "featuresRu": [
+      "Скульптурный рельеф в стиле барокко",
+      "Лёгкое покрытие, не подчёркивающее поры",
+      "Подходит для лица, декольте и плеч"
+    ],
+    "createdAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "id": "fk-p5",
+    "name": "Chocolate Wonder-Shop Cloud Lip Cream",
+    "category": "lips",
+    "collection": "Chocolate Wonder-Shop",
+    "price": 230000,
+    "oldPrice": 270000,
+    "rating": 4.9,
+    "reviewsCount": 77,
+    "badge": "TAVSIYA",
+    "inStock": true,
+    "stockCount": 28,
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shades": [
+      {
+        "id": "c01",
+        "name": "CH01 Nude Cocoa",
+        "nameRu": "Тёплый бежевый шоколад",
+        "nameUz": "Iliq bej shokolad",
+        "hex": "#B87860"
+      },
+      {
+        "id": "c02",
+        "name": "CH02 Toffee Caramel",
+        "nameRu": "Карамельные сливки",
+        "nameUz": "Karamel qaymoq",
+        "hex": "#C9856A"
+      },
+      {
+        "id": "c03",
+        "name": "CH03 Roasted Chestnut",
+        "nameRu": "Жареный каштан",
+        "nameUz": "Qovurilgan kashtan",
+        "hex": "#9B4E44"
+      }
+    ],
+    "description": "Bulutdek yumshoq, og'irlik sezilmaydigan matoviy lab bo'yog'i. Nozik shokolad va iliq bej tuslari har qanday teriga mos keladi.",
+    "features": [
+      "Haqiqiy shokolad ifori",
+      "Barxit yumshoqlik effekti",
+      "Lab chiziqlarini to'ldiruvchi formula"
+    ],
+    "nameRu": "Кремовая помада-облако Chocolate Wonder-Shop",
+    "nameUz": "Chocolate Wonder-Shop bulutsimon lab kremi",
+    "descriptionUz": "Bulutdek yumshoq, og'irlik sezilmaydigan matoviy lab bo'yog'i. Nozik shokolad va iliq bej tuslari har qanday teriga mos keladi.",
+    "descriptionRu": "Невесомая матовая помада с облачной текстурой. Нежные шоколадные и тёплые бежевые оттенки подходят любому тону кожи.",
+    "featuresUz": [
+      "Haqiqiy shokolad ifori",
+      "Barxit yumshoqlik effekti",
+      "Lab chiziqlarini to'ldiruvchi formula"
+    ],
+    "featuresRu": [
+      "Настоящий шоколадный аромат",
+      "Эффект бархатной мягкости",
+      "Формула, заполняющая линии губ"
+    ],
+    "createdAt": "2026-09-17T10:00:00.000Z"
+  },
+  {
+    "id": "fk-p6",
+    "name": "Swan Ballet Vintage Baroque Hand Mirror",
+    "category": "accessories",
+    "collection": "Swan Ballet",
+    "price": 190000,
+    "oldPrice": 230000,
+    "rating": 5,
+    "reviewsCount": 89,
+    "badge": "EKSKLYUZIV",
+    "inStock": true,
+    "stockCount": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shades": [
+      {
+        "id": "m_silver",
+        "name": "Antique Rose Gold",
+        "nameRu": "Розовое золото",
+        "nameUz": "Pushti oltin",
+        "hex": "#E5BEB5"
+      },
+      {
+        "id": "m_pearl",
+        "name": "Pearl White",
+        "nameRu": "Белый жемчуг",
+        "nameUz": "Oq marvarid",
+        "hex": "#F4EFEA"
+      }
+    ],
+    "description": "Flower Knows ning eng mashhur va orzu qilingan antikvar qo'l oynasi. Har bir qizning pardoz stolini haqiqiy malikalar saroyiga aylantiruvchi mo'jiza.",
+    "features": [
+      "Yuqori sifatli metall va emal qoplamasi",
+      "HD tiniq oyna qismi",
+      "Eksklyuziv baxmal g'ilof va sovg'a qutisi bilan"
+    ],
+    "nameRu": "Винтажное зеркальце в стиле барокко Swan Ballet",
+    "nameUz": "Swan Ballet vintage barokko qo'l oynasi",
+    "descriptionUz": "Flower Knows ning eng mashhur va orzu qilingan antikvar qo'l oynasi. Har bir qizning pardoz stolini haqiqiy malikalar saroyiga aylantiruvchi mo'jiza.",
+    "descriptionRu": "Самое популярное и желанное антикварное ручное зеркало Flower Knows. Превращает туалетный столик каждой девушки в королевский дворец.",
+    "featuresUz": [
+      "Yuqori sifatli metall va emal qoplamasi",
+      "HD tiniq oyna qismi",
+      "Eksklyuziv baxmal g'ilof va sovg'a qutisi bilan"
+    ],
+    "featuresRu": [
+      "Высококачественный металл с эмалевым покрытием",
+      "Прозрачное HD-зеркало",
+      "В комплекте бархатный чехол и подарочная коробка"
+    ],
+    "createdAt": "2026-09-21T10:00:00.000Z"
+  },
+  {
+    "id": "fk-p7",
+    "name": "Moonlight Mermaid Setting Powder",
+    "category": "face",
+    "collection": "Moonlight Mermaid",
+    "price": 310000,
+    "oldPrice": 370000,
+    "rating": 4.8,
+    "reviewsCount": 35,
+    "badge": "YANGI",
+    "inStock": true,
+    "stockCount": 21,
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shades": [
+      {
+        "id": "p01",
+        "name": "01 Fair Pearl",
+        "nameRu": "Прозрачный матовый",
+        "nameUz": "Shaffof matoviy",
+        "hex": "#F9F6F0"
+      },
+      {
+        "id": "p02",
+        "name": "02 Natural Beige",
+        "nameRu": "Натуральный тёплый беж",
+        "nameUz": "Tabiiy iliq bej",
+        "hex": "#F0E4D5"
+      }
+    ],
+    "description": "Yuzdagi ortiqcha yog'lanishni yo'qotuvchi va fotoshop effektini beruvchi vaznsiz sochiluvchi pudra. Teri teshiklarini berkitadi va mukammal baxmal silliqlik beradi.",
+    "features": [
+      "Ultra-mayin elakli texnologiya",
+      "Yumshoq patli sponj to'plamda",
+      "Kun bo'yi matoviy va tabiiy ko'rinish"
+    ],
+    "nameRu": "Рассыпчатая пудра Moonlight Mermaid",
+    "nameUz": "Moonlight Mermaid shoyi pudra",
+    "descriptionUz": "Yuzdagi ortiqcha yog'lanishni yo'qotuvchi va fotoshop effektini beruvchi vaznsiz sochiluvchi pudra. Teri teshiklarini berkitadi va mukammal baxmal silliqlik beradi.",
+    "descriptionRu": "Невесомая рассыпчатая пудра убирает лишний жирный блеск и создаёт эффект фотошопа. Скрывает поры и дарит идеальную бархатную гладкость.",
+    "featuresUz": [
+      "Ultra-mayin elakli texnologiya",
+      "Yumshoq patli sponj to'plamda",
+      "Kun bo'yi matoviy va tabiiy ko'rinish"
+    ],
+    "featuresRu": [
+      "Технология ультрамягкого просеивания",
+      "В наборе мягкий спонж из перьев",
+      "Матовый и естественный вид на весь день"
+    ],
+    "createdAt": "2026-09-25T10:00:00.000Z"
+  },
+  {
+    "id": "fk-p8",
+    "name": "Swan Ballet Ultimate Rococo Royal Gift Set",
+    "category": "sets",
+    "collection": "Swan Ballet",
+    "price": 890000,
+    "oldPrice": 1150000,
+    "rating": 5,
+    "reviewsCount": 23,
+    "badge": "CHEKLANGAN",
+    "inStock": true,
+    "stockCount": 7,
+    "images": [
+      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&w=800&q=80"
+    ],
+    "shades": [
+      {
+        "id": "box_pink",
+        "name": "Swan Royal Chest",
+        "nameRu": "Лебединый сундучок",
+        "nameUz": "Oqqush qutisi",
+        "hex": "#EED8D2"
+      }
+    ],
+    "description": "O'z ichiga Oqqush Baleti romyanasi, lab bo'yog'i, ko'z tenlari palitrasi, antikvar oyna va 2 ta shoyi pardoz cho'tkalarini olgan to'liq qirollik sovg'a to'plami.",
+    "features": [
+      "Musiqiy shkatulka shaklidagi hashamatli quti",
+      "To'liq 5 ta to'liq hajmdagi mahsulot",
+      "Sovg'a qilish uchun mukammal lenta va tabriknoma"
+    ],
+    "nameRu": "Королевский подарочный набор Swan Ballet Rococo",
+    "nameUz": "Swan Ballet Rococo qirollik sovg'a to'plami",
+    "descriptionUz": "O'z ichiga Oqqush Baleti romyanasi, lab bo'yog'i, ko'z tenlari palitrasi, antikvar oyna va 2 ta shoyi pardoz cho'tkalarini olgan to'liq qirollik sovg'a to'plami.",
+    "descriptionRu": "Полный королевский подарочный набор: румяна Swan Ballet, помада, палетка теней, антикварное зеркало и 2 шёлковые кисти для макияжа.",
+    "featuresUz": [
+      "Musiqiy shkatulka shaklidagi hashamatli quti",
+      "To'liq 5 ta to'liq hajmdagi mahsulot",
+      "Sovg'a qilish uchun mukammal lenta va tabriknoma"
+    ],
+    "featuresRu": [
+      "Роскошная коробка в форме музыкальной шкатулки",
+      "5 полноразмерных продуктов",
+      "Лента и открытка для идеального подарка"
+    ],
+    "createdAt": "2026-09-29T10:00:00.000Z"
+  }
+]

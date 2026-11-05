@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lips",
+    "name": "Lips",
+    "nameRu": "Губы (помады и тинты)",
+    "nameUz": "Lab bo'yoqlari & tintlar",
+    "description": "Yaltiroq va mayin matoviy lab bo'yoqlari, tintlar va lab parvarish moylari",
+    "descriptionRu": "Глянцевые и матовые помады, тинты и масла для ухода за губами",
+    "descriptionUz": "Yaltiroq va mayin matoviy lab bo'yoqlari, tintlar va lab parvarish moylari",
+    "sort": 1
+  },
+  {
+    "id": "blush",
+    "name": "Blush",
+    "nameRu": "Румяна с тиснением",
+    "nameUz": "Naqshinkor romyana",
+    "description": "Rokoko uslubida naqshinkor yanoq bo'yoqlari va gradientli tuslar",
+    "descriptionRu": "Румяна с рельефным узором в стиле рококо и градиентные оттенки",
+    "descriptionUz": "Rokoko uslubida naqshinkor yanoq bo'yoqlari va gradientli tuslar",
+    "sort": 2
+  },
+  {
+    "id": "eyes",
+    "name": "Eyes",
+    "nameRu": "Палетки теней",
+    "nameUz": "Ko'z tenlari palitralari",
+    "description": "Nozik bej, marvarid va jilvador yaltiroq tenlar palitralari",
+    "descriptionRu": "Палетки нежных бежевых, жемчужных и сияющих теней",
+    "descriptionUz": "Nozik bej, marvarid va jilvador yaltiroq tenlar palitralari",
+    "sort": 3
+  },
+  {
+    "id": "face",
+    "name": "Face",
+    "nameRu": "Пудра и хайлайтер",
+    "nameUz": "Pudra & xaylayter",
+    "description": "Mayin yopuvchi shoyi pudralar va farishta xaylayterlari",
+    "descriptionRu": "Мягкие шелковистые пудры и хайлайтеры «ангельский свет»",
+    "descriptionUz": "Mayin yopuvchi shoyi pudralar va farishta xaylayterlari",
+    "sort": 4
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "nameRu": "Зеркала и кисти",
+    "nameUz": "Ko'zgular & cho'tkalar",
+    "description": "Antikvar qo'l oynalari, shoyi cho'tkalar va kosmetichkalar",
+    "descriptionRu": "Антикварные ручные зеркала, шёлковые кисти и косметички",
+    "descriptionUz": "Antikvar qo'l oynalari, shoyi cho'tkalar va kosmetichkalar",
+    "sort": 5
+  },
+  {
+    "id": "sets",
+    "name": "Sets",
+    "nameRu": "Подарочные наборы",
+    "nameUz": "Sovg'abop to'plamlar",
+    "description": "Sovg'a qutisidagi to'liq Flower Knows go'zallik to'plamlari",
+    "descriptionRu": "Полные подарочные наборы Flower Knows в праздничной коробке",
+    "descriptionUz": "Sovg'a qutisidagi to'liq Flower Knows go'zallik to'plamlari",
+    "sort": 6
+  }
+]

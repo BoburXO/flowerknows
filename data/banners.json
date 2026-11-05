@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bn-1",
+    "image": "/h1.jpg",
+    "title": "Flower Knows",
+    "link": "",
+    "active": true,
+    "sort": 1,
+    "createdAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "bn-2",
+    "image": "/h2.jpg",
+    "title": "Flower Knows",
+    "link": "",
+    "active": true,
+    "sort": 2,
+    "createdAt": "2026-09-02T10:00:00.000Z"
+  },
+  {
+    "id": "bn-3",
+    "image": "/h3.jpg",
+    "title": "Flower Knows",
+    "link": "",
+    "active": true,
+    "sort": 3,
+    "createdAt": "2026-09-03T10:00:00.000Z"
+  },
+  {
+    "id": "bn-4",
+    "image": "/h5.jpg",
+    "title": "Flower Knows",
+    "link": "",
+    "active": true,
+    "sort": 4,
+    "createdAt": "2026-09-04T10:00:00.000Z"
+  },
+  {
+    "id": "bn-5",
+    "image": "/h6.jpg",
+    "title": "Flower Knows",
+    "link": "",
+    "active": true,
+    "sort": 5,
+    "createdAt": "2026-09-05T10:00:00.000Z"
+  },
+  {
+    "id": "bn-mw35d5k4",
+    "createdAt": "2026-11-05T06:10:55.204Z",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWE7RVIFImrJEgQ7sjtBCO3LahWNiV6hVImJ44qPw2TZaD8EBNOWITX48&s=10",
+    "title": "fsdfsdf",
+    "link": "",
+    "active": true,
+    "sort": 6
+  }
+]
